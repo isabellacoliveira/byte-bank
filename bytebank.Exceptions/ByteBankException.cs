@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace bytebank_ATENDIMENTO.bytebank.Exceptions
 {
+    // Exception tab tab 
 
     [Serializable]
     public class ByteBankException : Exception
